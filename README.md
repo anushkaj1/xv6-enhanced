@@ -1,10 +1,8 @@
-# OSN - Assignment 4 REPORT
+# Enhanced-xv6
 
----
-
-**Anushka Jain - 2021111008**
-
-**Nandini Maroo - 2021111012**
+xv6 is a simplified operating system developed at MIT. Its main purpose is to explain the main concepts of the operating system by studying an example kernel. xv6 is a re- implementation of Dennis Ritchie's and Ken Thompson's Unix version 6 (v6). xv6 loosely follows the structure and style of v6, but is implemented for a modern RISC-V multiprocessor using ANSI C.
+<br>
+The xv6 operating system has been modified as a part of this project to implement the following functionlities.
 
 ## Specification 1 : System Calls
 
